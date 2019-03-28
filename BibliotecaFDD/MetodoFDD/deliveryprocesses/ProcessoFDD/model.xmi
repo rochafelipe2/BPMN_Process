@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_jZ1-sFGqEem7auw6ruu6PQ" guid="_jZ1-sFGqEem7auw6ruu6PQ">
+    <resourceDescriptors xmi:id="_jZ1-sVGqEem7auw6ruu6PQ" id="-rrcGfav0JauTGddXqJEHvA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_jX_kkFGqEem7auw6ruu6PQ" name="ProcessoFDD" guid="_jX_kkFGqEem7auw6ruu6PQ">
+    <methodElementProperty xmi:id="_jX_kklGqEem7auw6ruu6PQ" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_jX_kkVGqEem7auw6ruu6PQ" name="ProcessoFDD" guid="_jX_kkVGqEem7auw6ruu6PQ" presentationName="ProcessoFDD">
+      <presentation xmi:id="-rrcGfav0JauTGddXqJEHvA" href="uma://-rrcGfav0JauTGddXqJEHvA#-rrcGfav0JauTGddXqJEHvA"/>
+      <defaultContext href="uma://_o8QT0FGpEem7auw6ruu6PQ#_r6AeYFGpEem7auw6ruu6PQ"/>
+      <validContext href="uma://_o8QT0FGpEem7auw6ruu6PQ#_r6AeYFGpEem7auw6ruu6PQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

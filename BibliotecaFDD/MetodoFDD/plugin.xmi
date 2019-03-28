@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Z6OCkFGqEem7auw6ruu6PQ" guid="_Z6OCkFGqEem7auw6ruu6PQ">
+    <subManagers xmi:id="_jZ1-sFGqEem7auw6ruu6PQ" href="uma://_jX_kkFGqEem7auw6ruu6PQ#_jZ1-sFGqEem7auw6ruu6PQ"/>
+    <resourceDescriptors xmi:id="_jZuC4FGqEem7auw6ruu6PQ" id="_jX_kkFGqEem7auw6ruu6PQ" uri="deliveryprocesses/ProcessoFDD/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_Z6IjAFGqEem7auw6ruu6PQ" name="MetodoFDD" guid="_Z6IjAFGqEem7auw6ruu6PQ">
+    <methodElementProperty xmi:id="_Z6OpoFGqEem7auw6ruu6PQ" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6IjAVGqEem7auw6ruu6PQ" name="Content" guid="_Z6IjAVGqEem7auw6ruu6PQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6JKEFGqEem7auw6ruu6PQ" name="Categories" guid="_Z6JKEFGqEem7auw6ruu6PQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6JKEVGqEem7auw6ruu6PQ" name="Domains" guid="_Z6JKEVGqEem7auw6ruu6PQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6JKElGqEem7auw6ruu6PQ" name="Disciplines" guid="_Z6JKElGqEem7auw6ruu6PQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6JKE1GqEem7auw6ruu6PQ" name="RoleSets" guid="_Z6JKE1GqEem7auw6ruu6PQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6JKFFGqEem7auw6ruu6PQ" name="WP Types" guid="_Z6JKFFGqEem7auw6ruu6PQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6JKFVGqEem7auw6ruu6PQ" name="Tools" guid="_Z6JKFVGqEem7auw6ruu6PQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6JKFlGqEem7auw6ruu6PQ" name="StandardCategories" guid="_Z6JKFlGqEem7auw6ruu6PQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6JKF1GqEem7auw6ruu6PQ" name="CustomCategories" guid="_Z6JKF1GqEem7auw6ruu6PQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6JKGFGqEem7auw6ruu6PQ" name="Hidden" guid="_Z6JKGFGqEem7auw6ruu6PQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Z6JKGVGqEem7auw6ruu6PQ" name="Custom Categories" guid="_Z6JKGVGqEem7auw6ruu6PQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z6JKGlGqEem7auw6ruu6PQ" name="CoreContent" guid="_Z6JKGlGqEem7auw6ruu6PQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eTPb0FGrEem7auw6ruu6PQ" name="ProcessoFDDPkg" guid="_eTPb0FGrEem7auw6ruu6PQ">
+          <methodElementProperty xmi:id="_eTPb0VGrEem7auw6ruu6PQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_9OB5AFGrEem7auw6ruu6PQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_d0tQQFGsEem7auw6ruu6PQ" name="gerente_de_projetos" guid="_d0tQQFGsEem7auw6ruu6PQ" presentationName="Gerente de projetos">
+            <methodElementProperty xmi:id="_gp8YAFGsEem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_iQ3SgFGsEem7auw6ruu6PQ" name="Arquiteto" guid="_iQ3SgFGsEem7auw6ruu6PQ" presentationName="New Role">
+            <methodElementProperty xmi:id="_-y7k0FGsEem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Z6JKG1GqEem7auw6ruu6PQ" name="CapabilityPatterns" guid="_Z6JKG1GqEem7auw6ruu6PQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_rUqgMFGqEem7auw6ruu6PQ" name="ProcessoPatterns" guid="_rUqgMFGqEem7auw6ruu6PQ">
+          <methodElementProperty xmi:id="_rUqgMVGqEem7auw6ruu6PQ" name="pkg_loadCheck" value="true"/>
+        </childPackages>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Z6JKHFGqEem7auw6ruu6PQ" name="DeliveryProcesses" guid="_Z6JKHFGqEem7auw6ruu6PQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_jX_kkFGqEem7auw6ruu6PQ" href="uma://_jX_kkFGqEem7auw6ruu6PQ#_jX_kkFGqEem7auw6ruu6PQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Z6JKHVGqEem7auw6ruu6PQ" name="ProcessContributions" guid="_Z6JKHVGqEem7auw6ruu6PQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>
