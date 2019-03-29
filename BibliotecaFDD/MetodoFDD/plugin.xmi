@@ -27,8 +27,35 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_d0tQQFGsEem7auw6ruu6PQ" name="gerente_de_projetos" guid="_d0tQQFGsEem7auw6ruu6PQ" presentationName="Gerente de projetos">
             <methodElementProperty xmi:id="_gp8YAFGsEem7auw6ruu6PQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_iQ3SgFGsEem7auw6ruu6PQ" name="Arquiteto" guid="_iQ3SgFGsEem7auw6ruu6PQ" presentationName="New Role">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_iQ3SgFGsEem7auw6ruu6PQ" name="arquiteto" guid="_iQ3SgFGsEem7auw6ruu6PQ" presentationName="Arquiteto">
             <methodElementProperty xmi:id="_-y7k0FGsEem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_umLskFGwEem7auw6ruu6PQ" name="equipe_de_modelagem" guid="_umLskFGwEem7auw6ruu6PQ" presentationName="Equipe de modelagem">
+            <methodElementProperty xmi:id="_Q6xk4FG2Eem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Ay4tkFGxEem7auw6ruu6PQ" name="stakeholders" guid="_Ay4tkFGxEem7auw6ruu6PQ" presentationName="Stakeholders">
+            <methodElementProperty xmi:id="_CmIz4FGxEem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_C_NbMFGxEem7auw6ruu6PQ" name="equipe_de_funcionalidade" guid="_C_NbMFGxEem7auw6ruu6PQ" presentationName="Equipe de funcionalidade">
+            <methodElementProperty xmi:id="_Mv_YwFGxEem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_NJuucFGxEem7auw6ruu6PQ" name="programador_lider" guid="_NJuucFGxEem7auw6ruu6PQ" presentationName="Programador líder">
+            <methodElementProperty xmi:id="_5FknIFGxEem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_PEdVwFGxEem7auw6ruu6PQ" name="equipe_de_plnanejamento" guid="_PEdVwFGxEem7auw6ruu6PQ" presentationName="Equipe de plnanejamento">
+            <methodElementProperty xmi:id="_RdfpsFGxEem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_6l-C4FGxEem7auw6ruu6PQ" name="diagrama_de_classe" guid="_6l-C4FGxEem7auw6ruu6PQ" presentationName="Diagrama de classe">
+            <methodElementProperty xmi:id="_Q5TlQFG2Eem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_B43owFGyEem7auw6ruu6PQ" name="diagrama_de_sequencia" guid="_B43owFGyEem7auw6ruu6PQ" presentationName="Diagrama de sequencia">
+            <methodElementProperty xmi:id="_AAYnsFGzEem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Op-44FG0Eem7auw6ruu6PQ" name="lista_de_areas" guid="_Op-44FG0Eem7auw6ruu6PQ" presentationName="Lista de areas">
+            <methodElementProperty xmi:id="_Q4tIUFG2Eem7auw6ruu6PQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4PfW4FG1Eem7auw6ruu6PQ" name="lista_de_atividades_por_area" guid="_4PfW4FG1Eem7auw6ruu6PQ" presentationName="Lista de atividades por area">
+            <methodElementProperty xmi:id="_QzU5EFG2Eem7auw6ruu6PQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
